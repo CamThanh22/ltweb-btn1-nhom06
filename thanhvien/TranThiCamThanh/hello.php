@@ -1,5 +1,4 @@
 <?php
-// hello.php — trang PHP đầu tiên
 $monhoc = "Thiết kế và Lập trình web";
 
 echo "<h1>Xin chào $monhoc!</h1>";
